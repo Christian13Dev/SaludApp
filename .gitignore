@@ -1,0 +1,10 @@
+# Python basura
+__pycache__/
+*.py[cod]
+
+# Tus archivos de datos (Privacidad)
+*.txt
+
+# Archivos de configuración de Windows o VSCode
+.vscode/
+Thumbs.db
